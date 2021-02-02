@@ -1,0 +1,17 @@
+.root {
+-fx-background-color: #e6e6fa;
+-fx-font-family: "monospace";
+-fx-font-size: 12pt;
+}
+
+.button {
+-fx-background-color: #6495ed;
+}
+
+.button:hover {
+-fx-background-color: #add8e6;
+}
+
+.button:pressed {
+-fx-background-color: #4682b4;
+}
